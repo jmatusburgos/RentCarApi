@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RentCarApp.Common\RentCarApp.Common.csproj" />
+    <ProjectReference Include="..\RentCarApp.DataAccess\RentCarApp.DataAccess.csproj" />
+    <ProjectReference Include="..\RentCarApp.Domain\RentCarApp.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
