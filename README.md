@@ -12,7 +12,7 @@
 ### Recomendaciones:
  - Limpiar el proyecto.
  - Compilar
- - Parametrizar la cadenta de conexion en el archivo **appSettings.json**
+ - Parametrizar la cadena de conexion en el archivo **appSettings.json**
 
   
   
